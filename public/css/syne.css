@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'Syne';
+    src: url('../fonts/Syne-ExtraBold.eot');
+    src: url('../fonts/Syne-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Syne-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Syne-ExtraBold.woff') format('woff'),
+        url('../fonts/Syne-ExtraBold.ttf') format('truetype'),
+        url('../fonts/Syne-ExtraBold.svg#Syne-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('../fonts/Syne-SemiBold.eot');
+    src: url('../fonts/Syne-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Syne-SemiBold.woff2') format('woff2'),
+        url('../fonts/Syne-SemiBold.woff') format('woff'),
+        url('../fonts/Syne-SemiBold.ttf') format('truetype'),
+        url('../fonts/Syne-SemiBold.svg#Syne-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('../fonts/Syne-Regular.eot');
+    src: url('../fonts/Syne-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Syne-Regular.woff2') format('woff2'),
+        url('../fonts/Syne-Regular.woff') format('woff'),
+        url('../fonts/Syne-Regular.ttf') format('truetype'),
+        url('../fonts/Syne-Regular.svg#Syne-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('../fonts/Syne-Medium.eot');
+    src: url('../fonts/Syne-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Syne-Medium.woff2') format('woff2'),
+        url('../fonts/Syne-Medium.woff') format('woff'),
+        url('../fonts/Syne-Medium.ttf') format('truetype'),
+        url('../fonts/Syne-Medium.svg#Syne-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('../fonts/Syne-Bold.eot');
+    src: url('../fonts/Syne-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Syne-Bold.woff2') format('woff2'),
+        url('../fonts/Syne-Bold.woff') format('woff'),
+        url('../fonts/Syne-Bold.ttf') format('truetype'),
+        url('../fonts/Syne-Bold.svg#Syne-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}

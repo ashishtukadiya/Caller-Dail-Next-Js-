@@ -1,0 +1,44 @@
+/* @import "tailwindcss/base"; */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import url("../../public/css/syne.css");
+
+.error-message {
+  /* margin-top: 2px; */
+  font-size: large;
+  text-align: start;
+  color: red;
+  /* margin-right: auto; */
+}
+
+* {
+  scrollbar-width: thin !important;
+  scrollbar-color: rgba(199, 200, 217, 1) #fff;
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  scrollbar-width: 18px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: rgba(199, 200, 217, 1);
+  border-radius: 20px;
+  border: 3px solid #fff;
+  transition: width 0.3s ease-in-out; /* Smooth transition on width change */
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  width: 16px; /* Adjust the width as needed */
+}
+
+.main-section {
+  width: calc(100% - 265px);
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
